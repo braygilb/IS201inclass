@@ -1,0 +1,28 @@
+img {
+    width: 200px;
+}
+
+body {
+    background-color:bisque;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+.flavor {
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#rocky {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.icecream {
+    background-color:darkgray;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
